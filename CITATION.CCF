@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: "WIETZEL"
+    given-names: "Emmanuel"
+    orcid: "https://orcid.org/0009-0000-7301-9157" 
+title: "guiron-le-courtois: Les Métamorphoses de Guiron: Géographie, matérialité et politique d'une réception franco-italienne"
+version: 1.0.0
+doi: 10.5281/zenodo.17674429
+date-released: 2025-11-23
+url: "https://github.com/fin-amor-flux/guiron-le-courtois"
+license: "CC-BY-NC-SA-4.0"
